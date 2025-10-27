@@ -11,4 +11,4 @@ class Pista:
 
     def __str__(self):
         """Mostramos la pista cuando se imprime el objeto."""
-        return f"🧩 {self.texto}"
+        return f"{self.texto}"
